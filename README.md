@@ -1,4 +1,4 @@
-##  Hi, I'm Priyanka Sharma 👋
+##  Hi, I'm Shivam Awasthi 👋
 
 I'm an enthusiastic B.Tech CSE student at GL Bajaj Group of Institutions, Mathura, with a passion for web development and a strong focus on learning data structures and algorithms. I’m driven by a love for technology and a desire to build impactful solutions.<br>
 
